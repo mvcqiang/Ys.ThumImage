@@ -48,7 +48,10 @@ namespace Ys.ThumImage.Controllers
                 oHeight = int.Parse(ss[1]);
             }
 
+            oPath= string.Format("/{0}{1}", AppConfigHelper.GetAppConfig<string>("cacheDir"), oPath);
+
             pPath = Server.MapPath(oPath);
+            
             oDir = Path.GetDirectoryName(pPath);
 
             if (!System.IO.File.Exists(pPath))

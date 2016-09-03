@@ -6,3 +6,4 @@ Logs/
 *.suo
 *.user
 .vs
+cache

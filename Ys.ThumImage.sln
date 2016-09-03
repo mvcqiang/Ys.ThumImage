@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ys.ThumImage", "Ys.ThumImage\Ys.ThumImage.csproj", "{1600FB14-14B4-4D47-8767-77EDE573A1A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Ys.Common", "Ys.Common\Ys.Common.csproj", "{4042AC2D-CFEE-4140-ACA5-98635225BB6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1600FB14-14B4-4D47-8767-77EDE573A1A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1600FB14-14B4-4D47-8767-77EDE573A1A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1600FB14-14B4-4D47-8767-77EDE573A1A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1600FB14-14B4-4D47-8767-77EDE573A1A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4042AC2D-CFEE-4140-ACA5-98635225BB6D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4042AC2D-CFEE-4140-ACA5-98635225BB6D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4042AC2D-CFEE-4140-ACA5-98635225BB6D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4042AC2D-CFEE-4140-ACA5-98635225BB6D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

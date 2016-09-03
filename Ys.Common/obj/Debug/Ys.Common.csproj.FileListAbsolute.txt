@@ -1,0 +1,5 @@
+E:\yeyu\Ys.ThumImage\Ys.Common\bin\Debug\Ys.Common.dll
+E:\yeyu\Ys.ThumImage\Ys.Common\bin\Debug\Ys.Common.pdb
+E:\yeyu\Ys.ThumImage\Ys.Common\obj\Debug\Ys.Common.dll
+E:\yeyu\Ys.ThumImage\Ys.Common\obj\Debug\Ys.Common.pdb
+E:\yeyu\Ys.ThumImage\Ys.Common\obj\Debug\Ys.Common.csprojResolveAssemblyReference.cache

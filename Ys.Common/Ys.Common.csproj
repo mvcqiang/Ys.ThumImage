@@ -43,7 +43,6 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="AppConfigHelper.cs" />
-    <Compile Include="Class1.cs" />
     <Compile Include="FileHelper.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
